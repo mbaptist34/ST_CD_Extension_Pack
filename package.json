@@ -1,0 +1,23 @@
+{
+    "name": "summertech-pack",
+    "displayName": "SummerTech Pack",
+    "publisher": "SummerTech",
+    "description": "The extension pack used by SummerTech for its campers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-python.python",
+        "redhat.java",
+        "formulahendry.code-runner",
+        "ritwickdey.liveserver",
+        "vscjava.vscode-java-pack",
+        "esbenp.prettier-vscode",
+        "zignd.html-css-class-completion",
+        "ecmel.vscode-html-css"
+    ]
+}

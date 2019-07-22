@@ -22,6 +22,8 @@
         "vscjava.vscode-java-pack",
         "esbenp.prettier-vscode",
         "zignd.html-css-class-completion",
-        "ecmel.vscode-html-css"
+        "ecmel.vscode-html-css",
+        "ms-vscode.cpptools",
+        "austin.code-gnu-global"
     ]
 }
